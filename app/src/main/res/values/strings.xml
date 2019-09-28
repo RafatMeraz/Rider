@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rider</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_current_order">Deliver</string>
+    <string name="title_profile">Profile</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAT2UpwclPQpertYiNuLHrwt95cpuaM2w8</string>
+    <string name="google_directions_key">AIzaSyAT2UpwclPQpertYiNuLHrwt95cpuaM2w8</string>
+
+</resources>
